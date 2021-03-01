@@ -33,7 +33,7 @@
     "redux-thunk": "^2.3.0",
     "rewire": "^4.0.1",
     "source-map-explorer": "^1.8.0",
-    "three": "^0.94.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^17.1.0",
